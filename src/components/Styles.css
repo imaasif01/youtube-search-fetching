@@ -1,0 +1,41 @@
+.video-item {
+  display: flex !important;
+  align-items: center !important;
+  cursor: pointer;
+}
+
+.header {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.7px;
+  line-height: 12px;
+  /* padding-left: 10px; */
+  color: rgb(38, 36, 36);
+  color: white !important;
+}
+.description {
+  padding-top: 5px;
+  font-weight: 500;
+  color: white !important;
+}
+
+.video-item.item img {
+  max-width: 180px;
+  border-radius: 5px;
+}
+.search-bar {
+  background-color: rgb(35, 35, 35) !important;
+}
+.label {
+  color: white !important;
+}
+body {
+  background-color: rgb(21, 20, 20);
+}
+
+.vsnippet {
+  color: white !important;
+}
+.vsegment {
+  background-color: rgb(35, 35, 35) !important;
+}
